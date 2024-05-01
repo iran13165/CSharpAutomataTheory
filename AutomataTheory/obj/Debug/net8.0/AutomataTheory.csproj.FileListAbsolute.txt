@@ -1,0 +1,14 @@
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/bin/Debug/net8.0/AutomataTheory
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/bin/Debug/net8.0/AutomataTheory.deps.json
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/bin/Debug/net8.0/AutomataTheory.runtimeconfig.json
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/bin/Debug/net8.0/AutomataTheory.dll
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/bin/Debug/net8.0/AutomataTheory.pdb
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/AutomataTheory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/AutomataTheory.AssemblyInfoInputs.cache
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/AutomataTheory.AssemblyInfo.cs
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/AutomataTheory.csproj.CoreCompileInputs.cache
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/AutomataTheory.dll
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/refint/AutomataTheory.dll
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/AutomataTheory.pdb
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/AutomataTheory.genruntimeconfig.cache
+/Users/iranchoudhury/Documents/CSharpAutomataTheory/AutomataTheory/obj/Debug/net8.0/ref/AutomataTheory.dll
